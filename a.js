@@ -15,4 +15,6 @@ var server = http.createServer(function (request,response) {
 })
 server.listen(3000, function (error) {
     console.log("启动成功：http://localhost:3000");
+    console.log("启动成功：http://localhost:3000");
+    console.log("启动成功：http://localhost:3000");
 })
